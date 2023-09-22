@@ -43,7 +43,41 @@ npm init -y
 ```
 npm install express morgan path body-parser cookie-parser mongoose
 ```
+#### mongodb 설치
 
+```
+wget -qO - https://www.mongodb.org/static/pgp/server-4.4.asc | sudo apt-key add -
+```
+```
+echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu focal/mongodb-org/4.4 multiverse" | tee /etc/apt/sources.list.d/mongodb-org-4.4.list
+```
+```
+wget http://archive.ubuntu.com/ubuntu/pool/main/o/openssl/libssl1.1_1.1.1f-1ubuntu2_amd64.deb
+```
+```
+dpkg -i libssl1.1_1.1.1f-1ubuntu2_amd64.deb
+```
+```
+rm -rf libssl1.1_1.1.1f-1ubuntu2_amd64.deb
+```
+```
+apt -y update; apt -y upgrade
+```
+```
+apt -y install mongodb-org
+```
+```
+systemctl start mongod
+```
+```
+systemctl status mongod
+```
+```
+mongod --version
+```
+```
+mongo
+```
 ## Running the tests / 테스트의 실행
 
 어떻게 테스트가 이 시스템에서 돌아가는지에 대한 설명을 합니다
