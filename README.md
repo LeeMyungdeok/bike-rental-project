@@ -104,9 +104,9 @@ nvm install v16.20
 npm install sync-mysql dotevv async axios
 ```
 
-## Running the tests / 테스트의 실행
+## back-end 아키텍쳐 설계
 
-어떻게 테스트가 이 시스템에서 돌아가는지에 대한 설명을 합니다
+<img width="592" alt="스크린샷 2023-09-22 오후 9 31 23" src="https://github.com/LeeMyungdeok/bike-rental-project/assets/115915362/4ac3590d-024c-4318-8427-0a00966efda1">
 
 ### 테스트는 이런 식으로 동작합니다
 
@@ -134,10 +134,6 @@ Add additional notes about how to deploy this on a live system / 라이브 시�
 ## Contributiong / 기여
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us. / [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) 를 읽고 이에 맞추어 pull request 를 해주세요.
-
-## License / 라이센스
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://gist.github.com/PurpleBooth/LICENSE.md) file for details / 이 프로젝트는 MIT 라이센스로 라이센스가 부여되어 있습니다. 자세한 내용은 LICENSE.md 파일을 참고하세요.
 
 ## Acknowledgments / 감사의 말
 
