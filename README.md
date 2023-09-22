@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-<img width="400px" src="https://user-images.githubusercontent.com/29851772/120697106-468c7900-c4e8-11eb-9b9f-0e5a608e5bfc.png">
+<img width="400px" src="[https://user-images.githubusercontent.com/29851772/120697106-468c7900-c4e8-11eb-9b9f-0e5a608e5bfc.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROEbKNdwVBUFevi0w_a4qiv3KefujeliyJqQ&usqp=CAU)">
 <br><br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
