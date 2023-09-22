@@ -101,18 +101,13 @@ npm install sync-mysql dotevv async axios
 <img width="592" alt="스크린샷 2023-09-22 오후 9 31 23" src="https://github.com/LeeMyungdeok/bike-rental-project/assets/115915362/4ac3590d-024c-4318-8427-0a00966efda1">
 
 ### 테스트는 이런 식으로 동작합니다
+<img src = https://github.com/LeeMyungdeok/bike-rental-project/assets/115915362/05684f2f-010e-4fcc-af81-01fc0040910b>
 
-왜 이렇게 동작하는지, 설명합니다
 
-```
-예시
-```
 
-### 테스트는 이런 식으로 작성하시면 됩니다
-
-```
-예시
-```
+|                Survey              |                Check Mail               |
+| :----------------------------------: | :----------------------------------: |
+| <img src='https://user-images.githubusercontent.com/71132893/126994394-48932076-50be-401f-b81a-2e8d63bb5fb8.gif' width='400px' height='200px'>                                 | <img src='https://user-images.githubusercontent.com/71132893/126994395-ed3de24a-a19b-4875-8b02-6ca4b7086aa5.gif' width='400px' height='200px'>                                 |
 
 ## Deployment / 배포
 
