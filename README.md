@@ -111,7 +111,7 @@ npm install sync-mysql dotevv async axios
 
 ## Deployment / 배포
 
-Add additional notes about how to deploy this on a live system / 라이브 시스템을 배포하는 방법
+예정 입니다.
 
 ## Built With / 누구랑 만들었나요?
 
