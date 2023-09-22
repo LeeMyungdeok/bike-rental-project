@@ -29,10 +29,19 @@
 
 ### Installing / 설치
 
-아래 사항들로 현 프로젝트에 관한 모듈들을 설치할 수 있습니다.
+#### npm 모듈 설치 
 
 ```
 apt install -y npm
+```
+```
+npm install -g nodemon
+```
+```
+npm init -y
+```
+```
+npm install express morgan path body-parser cookie-parser mongoose
 ```
 
 ## Running the tests / 테스트의 실행
