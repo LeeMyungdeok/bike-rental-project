@@ -108,7 +108,7 @@ npm install sync-mysql dotevv async axios
 
 |                return              |                rental               |
 | :----------------------------------: | :----------------------------------: |
-| <img src='https://github.com/LeeMyungdeok/bike-rental-project/assets/115915362/ffe5dd42-a87b-46f1-98b3-d673b25a15a4' width='400px' height='400px'>                                 | <img src='https://github.com/LeeMyungdeok/bike-rental-project/assets/115915362/d191e793-e651-4951-bdf1-7bbe480dac17' width='400px' height='400px'>                                 |
+| <img src='https://github.com/LeeMyungdeok/bike-rental-project/assets/115915362/ffe5dd42-a87b-46f1-98b3-d673b25a15a4' width='200px' height='400px'>                                 | <img src='https://github.com/LeeMyungdeok/bike-rental-project/assets/115915362/d191e793-e651-4951-bdf1-7bbe480dac17' width='400px' height='400px'>                                 |
 
 
 
