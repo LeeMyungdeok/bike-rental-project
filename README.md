@@ -103,7 +103,10 @@ npm install sync-mysql dotevv async axios
 
 ### 테스트는 이런 식으로 동작합니다
 <img src = "https://github.com/LeeMyungdeok/bike-rental-project/assets/115915362/d9b8fd6f-920d-4086-81b4-28481e60e383">  
+<img src = "https://github.com/LeeMyungdeok/bike-rental-project/assets/115915362/6f8f1f67-5432-4956-a45a-778daa9e633c"> 
 
+<img src = "https://github.com/LeeMyungdeok/bike-rental-project/assets/115915362/ffe5dd42-a87b-46f1-98b3-d673b25a15a4"> 
+<img src = "https://github.com/LeeMyungdeok/bike-rental-project/assets/115915362/d191e793-e651-4951-bdf1-7bbe480dac17"> 
 
 
 
