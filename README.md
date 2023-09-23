@@ -124,4 +124,4 @@ npm install sync-mysql dotevv async axios
  
 ## 보완점
 
-* 해당 프로젝트는 node.js, html, css, javascript의 내용을 배워 첫 프로젝트이기에 부족한 점이 많습니다. 조금 씩 업그레이드를 할 예정입니다. 
+* 해당 프로젝트는 node.js, html, css, javascript의 내용을 배워 첫 프로젝트이기에 부족한 점이 많습니다. 조금 씩 업그레이드를 할 예정입니다.
