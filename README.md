@@ -104,21 +104,24 @@ npm install sync-mysql dotevv async axios
 ### 테스트는 이런 식으로 동작합니다
 <img src = https://github.com/LeeMyungdeok/bike-rental-project/assets/115915362/05684f2f-010e-4fcc-af81-01fc0040910b>                              |
 
-## Deployment / 배포
+## 배포
 
 예정 입니다.
 
-## 2030Team
+## 팀명: 2030Team
 
 * [팀원](링크) - 이명덕, 한종우
 
 ## 담당 업무
 
 - backend
+  - mysql을 활용하여 데이터를 비교하면서 로그인을 기능을 구현했습니다.
   - 자전거 대여 및 반납 구현을 중심적으로 구현했습니다. 자전거를 대여하면서 시간, 자전거, 이름 등 필요 데이터를 mongodb에 저장을 했습니다.
-  - 사용자가   
-
-
+  - 사용자가 반납을 하면 mongodb에서 해당 데이터를 불러와 처리를 하여 다시 mysql로 저장을 시켰습니다.
+  - 사용자가 반납을 하게되면 사용한 시간을 연산하여 가격을 처리하였고 해당 가격으로 결제 시스템을 구현했습니다.
+- frontend
+  - 로그인 페이지, main 페이지를 구축했습니다.
+ 
 ## Acknowledgments / 감사의 말
 
 * Hat tip to anyone whose code was used / 코드를 사용한 모든 사용자들에게 팁
