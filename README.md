@@ -122,8 +122,6 @@ npm install sync-mysql dotevv async axios
 - frontend
   - 로그인 페이지, main 페이지를 구축했습니다.
  
-## Acknowledgments / 감사의 말
+## 보완점
 
-* Hat tip to anyone whose code was used / 코드를 사용한 모든 사용자들에게 팁
-* Inspiration / 영감
-* etc / 기타
+* 해당 프로젝트는 node.js, html, css, javascript의 내용을 배워 첫 프로젝트이기에 부족한 점이 많습니다. 조금 씩 업그레이드를 할 예정입니다. 
