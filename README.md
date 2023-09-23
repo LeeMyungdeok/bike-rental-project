@@ -19,7 +19,7 @@
 
 서울의 공공 자전거 서비스인 '따릉이'의 이용률이 최근 증가하고 감소함에 따라 사람들의 건강에 대한 관심이 높아지고 있습니다. 이에 우리 팀은 이러한 요즘 핫한 주제인 건강에 관한 프로젝트를 진행하고자 합니다. 이 프로젝트의 목표는 '따릉이' 서비스를 대상으로 한 자전거 대여 서비스를 제공하는 것입니다.
 
-### Installing / 설치
+### Installing
 
 #### npm 모듈 설치 
 
@@ -71,6 +71,7 @@ mongod --version
 mongo
 ```
 #### nodejs install
+
 ```
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
 ```
@@ -101,26 +102,22 @@ npm install sync-mysql dotevv async axios
 <img width="592" alt="스크린샷 2023-09-22 오후 9 31 23" src="https://github.com/LeeMyungdeok/bike-rental-project/assets/115915362/4ac3590d-024c-4318-8427-0a00966efda1">
 
 ### 테스트는 이런 식으로 동작합니다
-<img src = https://github.com/LeeMyungdeok/bike-rental-project/assets/115915362/05684f2f-010e-4fcc-af81-01fc0040910b>
-
-
-
-|                Survey              |                Check Mail               |
-| :----------------------------------: | :----------------------------------: |
-| <img src='https://user-images.githubusercontent.com/71132893/126994394-48932076-50be-401f-b81a-2e8d63bb5fb8.gif' width='400px' height='200px'>                                 | <img src='https://user-images.githubusercontent.com/71132893/126994395-ed3de24a-a19b-4875-8b02-6ca4b7086aa5.gif' width='400px' height='200px'>                                 |
+<img src = https://github.com/LeeMyungdeok/bike-rental-project/assets/115915362/05684f2f-010e-4fcc-af81-01fc0040910b>                              |
 
 ## Deployment / 배포
 
 예정 입니다.
 
-## Built With / 누구랑 만들었나요?
+## 2030Team
 
-* [이름](링크) - 무엇 무엇을 했어요
-* [Name](Link) - Create README.md
+* [팀원](링크) - 이명덕, 한종우
 
-## Contributiong / 기여
+## 담당 업무
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us. / [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) 를 읽고 이에 맞추어 pull request 를 해주세요.
+- backend
+  - 자전거 대여 및 반납 구현을 중심적으로 구현했습니다. 자전거를 대여하면서 시간, 자전거, 이름 등 필요 데이터를 mongodb에 저장을 했습니다.
+  - 사용자가   
+
 
 ## Acknowledgments / 감사의 말
 
