@@ -100,7 +100,7 @@ npm install sync-mysql dotevv async axios
 
 ## back-end 아키텍쳐 설계
 <p align="center">
-<img width="700" alt="3-Tier Architecture" src="https://github.com/LeeMyungdeok/bike-rental-project/assets/115915362/d8786bc4-60bf-406c-8df7-7c034b836b2c">
+
 </p>
 
 
