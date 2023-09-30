@@ -99,9 +99,9 @@ npm install sync-mysql dotevv async axios
 ```
 
 ## back-end 아키텍쳐 설계
-
-<img width="592" alt="3-Tier Architecture" src="https://github.com/LeeMyungdeok/bike-rental-project/assets/115915362/d8786bc4-60bf-406c-8df7-7c034b836b2c">
-
+<p align="center">
+<img width="700" alt="3-Tier Architecture" src="https://github.com/LeeMyungdeok/bike-rental-project/assets/115915362/d8786bc4-60bf-406c-8df7-7c034b836b2c">
+</p>
 
 
 ### 테스트는 이런 식으로 동작합니다
