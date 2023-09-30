@@ -100,7 +100,9 @@ npm install sync-mysql dotevv async axios
 
 ## back-end 아키텍쳐 설계
 
-<img width="592" alt="스크린샷 2023-09-22 오후 9 31 23" src="https://github.com/LeeMyungdeok/bike-rental-project/assets/115915362/4ac3590d-024c-4318-8427-0a00966efda1">
+<img width="592" alt="3-Tier Architecture" src="https://github.com/LeeMyungdeok/bike-rental-project/assets/115915362/d8786bc4-60bf-406c-8df7-7c034b836b2c">
+
+
 
 ### 테스트는 이런 식으로 동작합니다
 |                sign in              |                sign up               |
@@ -110,12 +112,6 @@ npm install sync-mysql dotevv async axios
 |                return              |                rental               |
 | :----------------------------------: | :----------------------------------: |
 | <img src='https://github.com/LeeMyungdeok/bike-rental-project/assets/115915362/ffe5dd42-a87b-46f1-98b3-d673b25a15a4' width='400px' height='300px'>                                 | <img src='https://github.com/LeeMyungdeok/bike-rental-project/assets/115915362/d191e793-e651-4951-bdf1-7bbe480dac17' width='400px' height='400px'>                                 |
-
-
-
-
-
-
 
 ## 배포
 
